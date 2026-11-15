@@ -1,2 +1,2 @@
 # tdash-support
-Tdash privacy policy and support pages
+DRo privacy policy and support pages
